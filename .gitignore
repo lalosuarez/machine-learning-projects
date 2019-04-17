@@ -1,0 +1,4 @@
+/jupyter-notebooks/animals-classification/dataset/*
+
+# Removing because file size error when pushing to branch
+/jupyter-notebooks/credit-card-fraud/creditcard.csv
